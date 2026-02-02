@@ -1,0 +1,2 @@
+# Desenvolvi um Sistema de Cadastro, Login e Gerenciamento de Alunos.
+Este é o meu primeiro projeto. Caso você seja um aluno, você consegue se cadastrar no sistema, guardar suas informações, como notas, a sua turma, dentre outras informações. Você consegue até mesmo fazer uma alteração, caso eu tenha errado seu nome ou alguma informação descrita.
